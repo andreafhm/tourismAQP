@@ -12,16 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fe1e3773ddaa9ce48835846fb8e11c7f, type: 3}
   m_Name: Historia
   m_EditorClassIdentifier: 
-  _info: "Luego de fundarse La Villa Hermosa de Arequipa, el 15 de agosto de 1540,
-    se construy\xF3 provisionalmente una iglesia parroquial con el t\xEDtulo de ..."
+  _info: Pregunta
   _answers:
-  - _info: San Pedro y San Pablo
-    _isCorrect: 0
-  - _info: Virgen de Chapi
-    _isCorrect: 0
-  - _info: "Se\xF1or San Pedro"
+  - _info: ....
     _isCorrect: 1
-  - _info: "Se\xF1or de los Desamparados"
+  - _info: ...
+    _isCorrect: 0
+  - _info: ..
+    _isCorrect: 0
+  - _info: ..
     _isCorrect: 0
   _useTimer: 1
   _timer: 20
